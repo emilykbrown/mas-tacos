@@ -55,4 +55,4 @@ Menu planning
 Customer online ordering
 Anayltics dashboard
 Brand ID (might work on this on the side)
-w
+wdepartment
